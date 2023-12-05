@@ -1,5 +1,7 @@
 ### Trabalhando com branches
 
+PIPOPOPOROPO
+
 Para criar essas ramificações (branches) existem alguns comandos. Tais como:
  
 ```bash
