@@ -1,7 +1,7 @@
 ### Trabalhando com branches
 
 Para criar essas ramificações (branches) existem alguns comandos. Tais como:
-
+ 
 ```bash
 git branch 01_branch 
 # 01_branch é a ramificação nova que você quer.
